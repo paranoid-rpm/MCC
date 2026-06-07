@@ -1,0 +1,5 @@
+{
+  "source": "/raw-assets/maincoon-asset-board.png",
+  "generatedAt": "2026-06-07T17:58:09.603Z",
+  "note": "Logo and icons recreated as stroke-only SVG from the asset-board style. Raster hero/card/noise crops come from the asset-board; deep forest and foreground layers use existing optimized local forest assets as parallax fallbacks."
+}
